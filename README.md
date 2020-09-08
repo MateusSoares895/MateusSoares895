@@ -36,6 +36,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#311](https://github.com//Rocketseat/unform/issues/311) in [Rocketseat/unform](https://github.com//Rocketseat/unform)
+2. 🗣 Commented on [#310](https://github.com//Rocketseat/unform/issues/310) in [Rocketseat/unform](https://github.com//Rocketseat/unform)
+3. 🗣 Commented on [#224](https://github.com//Rocketseat/unform/issues/224) in [Rocketseat/unform](https://github.com//Rocketseat/unform)
+4. 🗣 Commented on [#13645](https://github.com//eslint/eslint/issues/13645) in [eslint/eslint](https://github.com//eslint/eslint)
+5. 💪 Opened PR [#825](https://github.com//PKief/vscode-material-icon-theme/pull/825) in [PKief/vscode-material-icon-theme](https://github.com//PKief/vscode-material-icon-theme)
 <!--END_SECTION:activity-->
 </details>
 
