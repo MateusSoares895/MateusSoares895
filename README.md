@@ -36,11 +36,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#441](https://github.com//KamiKillertO/vscode-colorize/issues/441) in [KamiKillertO/vscode-colorize](https://github.com//KamiKillertO/vscode-colorize)
-2. ❗️ Opened issue [#311](https://github.com//Rocketseat/unform/issues/311) in [Rocketseat/unform](https://github.com//Rocketseat/unform)
-3. 🗣 Commented on [#310](https://github.com//Rocketseat/unform/issues/310) in [Rocketseat/unform](https://github.com//Rocketseat/unform)
-4. 🗣 Commented on [#224](https://github.com//Rocketseat/unform/issues/224) in [Rocketseat/unform](https://github.com//Rocketseat/unform)
-5. 🗣 Commented on [#13645](https://github.com//eslint/eslint/issues/13645) in [eslint/eslint](https://github.com//eslint/eslint)
+1. ❗️ Closed issue [#8308](https://github.com//yarnpkg/yarn/issues/8308) in [yarnpkg/yarn](https://github.com//yarnpkg/yarn)
+2. 🗣 Commented on [#8308](https://github.com//yarnpkg/yarn/issues/8308) in [yarnpkg/yarn](https://github.com//yarnpkg/yarn)
+3. ❗️ Opened issue [#441](https://github.com//KamiKillertO/vscode-colorize/issues/441) in [KamiKillertO/vscode-colorize](https://github.com//KamiKillertO/vscode-colorize)
+4. ❗️ Opened issue [#311](https://github.com//Rocketseat/unform/issues/311) in [Rocketseat/unform](https://github.com//Rocketseat/unform)
+5. 🗣 Commented on [#310](https://github.com//Rocketseat/unform/issues/310) in [Rocketseat/unform](https://github.com//Rocketseat/unform)
 <!--END_SECTION:activity-->
 </details>
 
