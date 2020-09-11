@@ -36,11 +36,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8308](https://github.com//yarnpkg/yarn/issues/8308) in [yarnpkg/yarn](https://github.com//yarnpkg/yarn)
-2. 🗣 Commented on [#8308](https://github.com//yarnpkg/yarn/issues/8308) in [yarnpkg/yarn](https://github.com//yarnpkg/yarn)
-3. ❗️ Opened issue [#441](https://github.com//KamiKillertO/vscode-colorize/issues/441) in [KamiKillertO/vscode-colorize](https://github.com//KamiKillertO/vscode-colorize)
-4. ❗️ Opened issue [#311](https://github.com//Rocketseat/unform/issues/311) in [Rocketseat/unform](https://github.com//Rocketseat/unform)
-5. 🗣 Commented on [#310](https://github.com//Rocketseat/unform/issues/310) in [Rocketseat/unform](https://github.com//Rocketseat/unform)
+1. 💪 Opened PR [#1](https://github.com//Mikael-R/aziris/pull/1) in [Mikael-R/aziris](https://github.com//Mikael-R/aziris)
+2. ❗️ Opened issue [#306](https://github.com//JetBrains/JetBrainsMono/issues/306) in [JetBrains/JetBrainsMono](https://github.com//JetBrains/JetBrainsMono)
+3. ❗️ Closed issue [#8308](https://github.com//yarnpkg/yarn/issues/8308) in [yarnpkg/yarn](https://github.com//yarnpkg/yarn)
+4. 🗣 Commented on [#8308](https://github.com//yarnpkg/yarn/issues/8308) in [yarnpkg/yarn](https://github.com//yarnpkg/yarn)
+5. ❗️ Opened issue [#441](https://github.com//KamiKillertO/vscode-colorize/issues/441) in [KamiKillertO/vscode-colorize](https://github.com//KamiKillertO/vscode-colorize)
 <!--END_SECTION:activity-->
 </details>
 
