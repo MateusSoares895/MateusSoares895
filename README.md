@@ -36,11 +36,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#763](https://github.com//zsh-users/zsh-completions/issues/763) in [zsh-users/zsh-completions](https://github.com//zsh-users/zsh-completions)
-2. 💪 Opened PR [#3](https://github.com//Mikael-R/readme-template-generator/pull/3) in [Mikael-R/readme-template-generator](https://github.com//Mikael-R/readme-template-generator)
-3. 💪 Opened PR [#1](https://github.com//Mikael-R/aziris/pull/1) in [Mikael-R/aziris](https://github.com//Mikael-R/aziris)
-4. ❗️ Opened issue [#306](https://github.com//JetBrains/JetBrainsMono/issues/306) in [JetBrains/JetBrainsMono](https://github.com//JetBrains/JetBrainsMono)
-5. ❗️ Closed issue [#8308](https://github.com//yarnpkg/yarn/issues/8308) in [yarnpkg/yarn](https://github.com//yarnpkg/yarn)
+1. ❌ Reopened PR [#29](https://github.com//password-generator/password-generator-web/pull/29) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
+2. 🗣 Commented on [#29](https://github.com//password-generator/password-generator-web/issues/29) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
+3. ❌ Closed PR [#29](https://github.com//password-generator/password-generator-web/pull/29) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
+4. 💪 Opened PR [#29](https://github.com//password-generator/password-generator-web/pull/29) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
+5. ❗️ Opened issue [#763](https://github.com//zsh-users/zsh-completions/issues/763) in [zsh-users/zsh-completions](https://github.com//zsh-users/zsh-completions)
 <!--END_SECTION:activity-->
 </details>
 
