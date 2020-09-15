@@ -36,11 +36,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com//password-generator/password-generator-web/pull/30) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
-2. ❌ Reopened PR [#29](https://github.com//password-generator/password-generator-web/pull/29) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
-3. 🗣 Commented on [#29](https://github.com//password-generator/password-generator-web/issues/29) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
-4. ❌ Closed PR [#29](https://github.com//password-generator/password-generator-web/pull/29) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
-5. 💪 Opened PR [#29](https://github.com//password-generator/password-generator-web/pull/29) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
+1. ❗️ Opened issue [#32](https://github.com//popey/sosumi-snap/issues/32) in [popey/sosumi-snap](https://github.com//popey/sosumi-snap)
+2. 💪 Opened PR [#30](https://github.com//password-generator/password-generator-web/pull/30) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
+3. ❌ Reopened PR [#29](https://github.com//password-generator/password-generator-web/pull/29) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
+4. 🗣 Commented on [#29](https://github.com//password-generator/password-generator-web/issues/29) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
+5. ❌ Closed PR [#29](https://github.com//password-generator/password-generator-web/pull/29) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
 <!--END_SECTION:activity-->
 </details>
 
