@@ -36,11 +36,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#306](https://github.com//JetBrains/JetBrainsMono/issues/306) in [JetBrains/JetBrainsMono](https://github.com//JetBrains/JetBrainsMono)
-2. 💪 Opened PR [#18](https://github.com//password-generator/password-generator-package/pull/18) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
-3. 💪 Opened PR [#5](https://github.com//password-generator/password-generator-cli/pull/5) in [password-generator/password-generator-cli](https://github.com//password-generator/password-generator-cli)
-4. 💪 Opened PR [#31](https://github.com//password-generator/password-generator-web/pull/31) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
-5. ❗️ Opened issue [#32](https://github.com//popey/sosumi-snap/issues/32) in [popey/sosumi-snap](https://github.com//popey/sosumi-snap)
+1. 🗣 Commented on [#2](https://github.com//getomni/google-chrome-omni/issues/2) in [getomni/google-chrome-omni](https://github.com//getomni/google-chrome-omni)
+2. 🗣 Commented on [#312](https://github.com//Rocketseat/unform/issues/312) in [Rocketseat/unform](https://github.com//Rocketseat/unform)
+3. 🗣 Commented on [#306](https://github.com//JetBrains/JetBrainsMono/issues/306) in [JetBrains/JetBrainsMono](https://github.com//JetBrains/JetBrainsMono)
+4. 💪 Opened PR [#18](https://github.com//password-generator/password-generator-package/pull/18) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
+5. 💪 Opened PR [#5](https://github.com//password-generator/password-generator-cli/pull/5) in [password-generator/password-generator-cli](https://github.com//password-generator/password-generator-cli)
 <!--END_SECTION:activity-->
 </details>
 
