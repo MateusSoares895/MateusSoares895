@@ -36,11 +36,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//felipesuri/suridocz/pull/1) in [felipesuri/suridocz](https://github.com//felipesuri/suridocz)
-2. 🗣 Commented on [#2](https://github.com//getomni/google-chrome-omni/issues/2) in [getomni/google-chrome-omni](https://github.com//getomni/google-chrome-omni)
-3. 🗣 Commented on [#312](https://github.com//Rocketseat/unform/issues/312) in [Rocketseat/unform](https://github.com//Rocketseat/unform)
-4. 🗣 Commented on [#306](https://github.com//JetBrains/JetBrainsMono/issues/306) in [JetBrains/JetBrainsMono](https://github.com//JetBrains/JetBrainsMono)
-5. 💪 Opened PR [#18](https://github.com//password-generator/password-generator-package/pull/18) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
+1. 💪 Opened PR [#1](https://github.com//password-generator/password-check-strength/pull/1) in [password-generator/password-check-strength](https://github.com//password-generator/password-check-strength)
+2. 💪 Opened PR [#1](https://github.com//felipesuri/suridocz/pull/1) in [felipesuri/suridocz](https://github.com//felipesuri/suridocz)
+3. 🗣 Commented on [#2](https://github.com//getomni/google-chrome-omni/issues/2) in [getomni/google-chrome-omni](https://github.com//getomni/google-chrome-omni)
+4. 🗣 Commented on [#312](https://github.com//Rocketseat/unform/issues/312) in [Rocketseat/unform](https://github.com//Rocketseat/unform)
+5. 🗣 Commented on [#306](https://github.com//JetBrains/JetBrainsMono/issues/306) in [JetBrains/JetBrainsMono](https://github.com//JetBrains/JetBrainsMono)
 <!--END_SECTION:activity-->
 </details>
 
