@@ -36,11 +36,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com//password-generator/password-generator-web/pull/32) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
-2. 💪 Opened PR [#1](https://github.com//password-generator/password-check-strength/pull/1) in [password-generator/password-check-strength](https://github.com//password-generator/password-check-strength)
-3. 💪 Opened PR [#1](https://github.com//felipesuri/suridocz/pull/1) in [felipesuri/suridocz](https://github.com//felipesuri/suridocz)
-4. 🗣 Commented on [#2](https://github.com//getomni/google-chrome-omni/issues/2) in [getomni/google-chrome-omni](https://github.com//getomni/google-chrome-omni)
-5. 🗣 Commented on [#312](https://github.com//Rocketseat/unform/issues/312) in [Rocketseat/unform](https://github.com//Rocketseat/unform)
+1. 💪 Opened PR [#3](https://github.com//password-generator/password-check-strength/pull/3) in [password-generator/password-check-strength](https://github.com//password-generator/password-check-strength)
+2. 🎉 Merged PR [#2](https://github.com//password-generator/password-check-strength/pull/2) in [password-generator/password-check-strength](https://github.com//password-generator/password-check-strength)
+3. 💪 Opened PR [#32](https://github.com//password-generator/password-generator-web/pull/32) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
+4. 💪 Opened PR [#1](https://github.com//password-generator/password-check-strength/pull/1) in [password-generator/password-check-strength](https://github.com//password-generator/password-check-strength)
+5. 💪 Opened PR [#1](https://github.com//felipesuri/suridocz/pull/1) in [felipesuri/suridocz](https://github.com//felipesuri/suridocz)
 <!--END_SECTION:activity-->
 </details>
 
