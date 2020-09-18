@@ -37,10 +37,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com//password-generator/password-check-strength/issues/3) in [password-generator/password-check-strength](https://github.com//password-generator/password-check-strength)
-2. 💪 Opened PR [#3](https://github.com//password-generator/password-check-strength/pull/3) in [password-generator/password-check-strength](https://github.com//password-generator/password-check-strength)
-3. 🎉 Merged PR [#2](https://github.com//password-generator/password-check-strength/pull/2) in [password-generator/password-check-strength](https://github.com//password-generator/password-check-strength)
-4. 💪 Opened PR [#32](https://github.com//password-generator/password-generator-web/pull/32) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
-5. 💪 Opened PR [#1](https://github.com//password-generator/password-check-strength/pull/1) in [password-generator/password-check-strength](https://github.com//password-generator/password-check-strength)
+2. 🗣 Commented on [#3](https://github.com//password-generator/password-check-strength/issues/3) in [password-generator/password-check-strength](https://github.com//password-generator/password-check-strength)
+3. 💪 Opened PR [#3](https://github.com//password-generator/password-check-strength/pull/3) in [password-generator/password-check-strength](https://github.com//password-generator/password-check-strength)
+4. 🎉 Merged PR [#2](https://github.com//password-generator/password-check-strength/pull/2) in [password-generator/password-check-strength](https://github.com//password-generator/password-check-strength)
+5. 💪 Opened PR [#32](https://github.com//password-generator/password-generator-web/pull/32) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
 <!--END_SECTION:activity-->
 </details>
 
