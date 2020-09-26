@@ -36,11 +36,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com//mickrosoft/Microsoft-Edge-for-Linux/issues/1) in [mickrosoft/Microsoft-Edge-for-Linux](https://github.com//mickrosoft/Microsoft-Edge-for-Linux)
-2. 🎉 Merged PR [#19](https://github.com//password-generator/password-generator-package/pull/19) in [password-generator/password-generator-package](https://github.com//password-generator/password-generator-package)
-3. ❗️ Closed issue [#5](https://github.com//diego3g/dokr/issues/5) in [diego3g/dokr](https://github.com//diego3g/dokr)
-4. 🎉 Merged PR [#34](https://github.com//password-generator/password-generator-web/pull/34) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
-5. 🎉 Merged PR [#33](https://github.com//password-generator/password-generator-web/pull/33) in [password-generator/password-generator-web](https://github.com//password-generator/password-generator-web)
+1. ❗️ Opened issue [#1](https://github.com/mickrosoft/Microsoft-Edge-for-Linux/issues/1) in [mickrosoft/Microsoft-Edge-for-Linux](https://github.com/mickrosoft/Microsoft-Edge-for-Linux)
+2. 🎉 Merged PR [#19](https://github.com/password-generator/password-generator-package/pull/19) in [password-generator/password-generator-package](https://github.com/password-generator/password-generator-package)
+3. ❗️ Closed issue [#5](https://github.com/diego3g/dokr/issues/5) in [diego3g/dokr](https://github.com/diego3g/dokr)
+4. 🎉 Merged PR [#34](https://github.com/password-generator/password-generator-web/pull/34) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
+5. 🎉 Merged PR [#33](https://github.com/password-generator/password-generator-web/pull/33) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
 <!--END_SECTION:activity-->
 </details>
 
