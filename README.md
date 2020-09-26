@@ -36,11 +36,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4692](https://github.com/nestjs/nest/issues/4692) in [nestjs/nest](https://github.com/nestjs/nest)
-2. ❗️ Opened issue [#1](https://github.com/mickrosoft/Microsoft-Edge-for-Linux/issues/1) in [mickrosoft/Microsoft-Edge-for-Linux](https://github.com/mickrosoft/Microsoft-Edge-for-Linux)
-3. 🎉 Merged PR [#19](https://github.com/password-generator/password-generator-package/pull/19) in [password-generator/password-generator-package](https://github.com/password-generator/password-generator-package)
-4. ❗️ Closed issue [#5](https://github.com/diego3g/dokr/issues/5) in [diego3g/dokr](https://github.com/diego3g/dokr)
-5. 🎉 Merged PR [#34](https://github.com/password-generator/password-generator-web/pull/34) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
+1. 🗣 Commented on [#13645](https://github.com/eslint/eslint/issues/13645) in [eslint/eslint](https://github.com/eslint/eslint)
+2. 🗣 Commented on [#4692](https://github.com/nestjs/nest/issues/4692) in [nestjs/nest](https://github.com/nestjs/nest)
+3. ❗️ Opened issue [#1](https://github.com/mickrosoft/Microsoft-Edge-for-Linux/issues/1) in [mickrosoft/Microsoft-Edge-for-Linux](https://github.com/mickrosoft/Microsoft-Edge-for-Linux)
+4. 🎉 Merged PR [#19](https://github.com/password-generator/password-generator-package/pull/19) in [password-generator/password-generator-package](https://github.com/password-generator/password-generator-package)
+5. ❗️ Closed issue [#5](https://github.com/diego3g/dokr/issues/5) in [diego3g/dokr](https://github.com/diego3g/dokr)
 <!--END_SECTION:activity-->
 </details>
 
