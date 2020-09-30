@@ -36,11 +36,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/DevUtilsApp/DevUtils-app/issues/6) in [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app)
-2. ❗️ Opened issue [#183](https://github.com/nestjs/typescript-starter/issues/183) in [nestjs/typescript-starter](https://github.com/nestjs/typescript-starter)
-3. 🗣 Commented on [#13645](https://github.com/eslint/eslint/issues/13645) in [eslint/eslint](https://github.com/eslint/eslint)
-4. 🗣 Commented on [#4692](https://github.com/nestjs/nest/issues/4692) in [nestjs/nest](https://github.com/nestjs/nest)
-5. ❗️ Opened issue [#1](https://github.com/mickrosoft/Microsoft-Edge-for-Linux/issues/1) in [mickrosoft/Microsoft-Edge-for-Linux](https://github.com/mickrosoft/Microsoft-Edge-for-Linux)
+1. ❌ Closed PR [#1](https://github.com/Mikael-R/chat-js/pull/1) in [Mikael-R/chat-js](https://github.com/Mikael-R/chat-js)
+2. ❗️ Opened issue [#6](https://github.com/DevUtilsApp/DevUtils-app/issues/6) in [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app)
+3. ❗️ Opened issue [#183](https://github.com/nestjs/typescript-starter/issues/183) in [nestjs/typescript-starter](https://github.com/nestjs/typescript-starter)
+4. 🗣 Commented on [#13645](https://github.com/eslint/eslint/issues/13645) in [eslint/eslint](https://github.com/eslint/eslint)
+5. 🗣 Commented on [#4692](https://github.com/nestjs/nest/issues/4692) in [nestjs/nest](https://github.com/nestjs/nest)
 <!--END_SECTION:activity-->
 </details>
 
