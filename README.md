@@ -36,11 +36,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/password-generator/password-check-strength/pull/4) in [password-generator/password-check-strength](https://github.com/password-generator/password-check-strength)
-2. ❌ Closed PR [#1](https://github.com/Mikael-R/chat-js/pull/1) in [Mikael-R/chat-js](https://github.com/Mikael-R/chat-js)
-3. ❗️ Opened issue [#6](https://github.com/DevUtilsApp/DevUtils-app/issues/6) in [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app)
-4. ❗️ Opened issue [#183](https://github.com/nestjs/typescript-starter/issues/183) in [nestjs/typescript-starter](https://github.com/nestjs/typescript-starter)
-5. 🗣 Commented on [#13645](https://github.com/eslint/eslint/issues/13645) in [eslint/eslint](https://github.com/eslint/eslint)
+1. ❗️ Opened issue [#1](https://github.com/viniciusddrft/chat_CLI/issues/1) in [viniciusddrft/chat_CLI](https://github.com/viniciusddrft/chat_CLI)
+2. 🎉 Merged PR [#4](https://github.com/password-generator/password-check-strength/pull/4) in [password-generator/password-check-strength](https://github.com/password-generator/password-check-strength)
+3. ❌ Closed PR [#1](https://github.com/Mikael-R/chat-js/pull/1) in [Mikael-R/chat-js](https://github.com/Mikael-R/chat-js)
+4. ❗️ Opened issue [#6](https://github.com/DevUtilsApp/DevUtils-app/issues/6) in [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app)
+5. ❗️ Opened issue [#183](https://github.com/nestjs/typescript-starter/issues/183) in [nestjs/typescript-starter](https://github.com/nestjs/typescript-starter)
 <!--END_SECTION:activity-->
 </details>
 
