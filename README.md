@@ -36,11 +36,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#199](https://github.com/cabal-club/cabal-cli/pull/199) in [cabal-club/cabal-cli](https://github.com/cabal-club/cabal-cli)
-2. ❗️ Opened issue [#1](https://github.com/viniciusddrft/chat_CLI/issues/1) in [viniciusddrft/chat_CLI](https://github.com/viniciusddrft/chat_CLI)
-3. 🎉 Merged PR [#4](https://github.com/password-generator/password-check-strength/pull/4) in [password-generator/password-check-strength](https://github.com/password-generator/password-check-strength)
-4. ❌ Closed PR [#1](https://github.com/Mikael-R/chat-js/pull/1) in [Mikael-R/chat-js](https://github.com/Mikael-R/chat-js)
-5. ❗️ Opened issue [#6](https://github.com/DevUtilsApp/DevUtils-app/issues/6) in [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app)
+1. 🎉 Merged PR [#35](https://github.com/password-generator/password-generator-web/pull/35) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
+2. 💪 Opened PR [#199](https://github.com/cabal-club/cabal-cli/pull/199) in [cabal-club/cabal-cli](https://github.com/cabal-club/cabal-cli)
+3. ❗️ Opened issue [#1](https://github.com/viniciusddrft/chat_CLI/issues/1) in [viniciusddrft/chat_CLI](https://github.com/viniciusddrft/chat_CLI)
+4. 🎉 Merged PR [#4](https://github.com/password-generator/password-check-strength/pull/4) in [password-generator/password-check-strength](https://github.com/password-generator/password-check-strength)
+5. ❌ Closed PR [#1](https://github.com/Mikael-R/chat-js/pull/1) in [Mikael-R/chat-js](https://github.com/Mikael-R/chat-js)
 <!--END_SECTION:activity-->
 </details>
 
