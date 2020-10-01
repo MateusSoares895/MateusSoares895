@@ -36,11 +36,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Bios-Marcel/homepage/pull/2) in [Bios-Marcel/homepage](https://github.com/Bios-Marcel/homepage)
-2. 💪 Opened PR [#2](https://github.com/Mikael-R/aziris/pull/2) in [Mikael-R/aziris](https://github.com/Mikael-R/aziris)
-3. 💪 Opened PR [#4](https://github.com/Mikael-R/readme-template-generator/pull/4) in [Mikael-R/readme-template-generator](https://github.com/Mikael-R/readme-template-generator)
-4. 🎉 Merged PR [#35](https://github.com/password-generator/password-generator-web/pull/35) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
-5. 💪 Opened PR [#199](https://github.com/cabal-club/cabal-cli/pull/199) in [cabal-club/cabal-cli](https://github.com/cabal-club/cabal-cli)
+1. 🎉 Merged PR [#36](https://github.com/password-generator/password-generator-web/pull/36) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
+2. 💪 Opened PR [#2](https://github.com/Bios-Marcel/homepage/pull/2) in [Bios-Marcel/homepage](https://github.com/Bios-Marcel/homepage)
+3. 💪 Opened PR [#2](https://github.com/Mikael-R/aziris/pull/2) in [Mikael-R/aziris](https://github.com/Mikael-R/aziris)
+4. 💪 Opened PR [#4](https://github.com/Mikael-R/readme-template-generator/pull/4) in [Mikael-R/readme-template-generator](https://github.com/Mikael-R/readme-template-generator)
+5. 🎉 Merged PR [#35](https://github.com/password-generator/password-generator-web/pull/35) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
 <!--END_SECTION:activity-->
 </details>
 
