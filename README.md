@@ -36,11 +36,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#260](https://github.com/darlinghq/darling/issues/260) in [darlinghq/darling](https://github.com/darlinghq/darling)
-2. ❗️ Opened issue [#318](https://github.com/Rocketseat/unform/issues/318) in [Rocketseat/unform](https://github.com/Rocketseat/unform)
-3. ❗️ Opened issue [#1](https://github.com/edison1105/Octotree-Pro/issues/1) in [edison1105/Octotree-Pro](https://github.com/edison1105/Octotree-Pro)
-4. 🎉 Merged PR [#36](https://github.com/password-generator/password-generator-web/pull/36) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
-5. 💪 Opened PR [#2](https://github.com/Bios-Marcel/homepage/pull/2) in [Bios-Marcel/homepage](https://github.com/Bios-Marcel/homepage)
+1. ❗️ Opened issue [#345](https://github.com/browsh-org/browsh/issues/345) in [browsh-org/browsh](https://github.com/browsh-org/browsh)
+2. 🗣 Commented on [#260](https://github.com/darlinghq/darling/issues/260) in [darlinghq/darling](https://github.com/darlinghq/darling)
+3. ❗️ Opened issue [#318](https://github.com/Rocketseat/unform/issues/318) in [Rocketseat/unform](https://github.com/Rocketseat/unform)
+4. ❗️ Opened issue [#1](https://github.com/edison1105/Octotree-Pro/issues/1) in [edison1105/Octotree-Pro](https://github.com/edison1105/Octotree-Pro)
+5. 🎉 Merged PR [#36](https://github.com/password-generator/password-generator-web/pull/36) in [password-generator/password-generator-web](https://github.com/password-generator/password-generator-web)
 <!--END_SECTION:activity-->
 </details>
 
