@@ -36,11 +36,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#19](https://github.com/dofy/learn-vim/issues/19) in [dofy/learn-vim](https://github.com/dofy/learn-vim)
-2. 🗣 Commented on [#343](https://github.com/browsh-org/browsh/issues/343) in [browsh-org/browsh](https://github.com/browsh-org/browsh)
-3. ❗️ Opened issue [#345](https://github.com/browsh-org/browsh/issues/345) in [browsh-org/browsh](https://github.com/browsh-org/browsh)
-4. 🗣 Commented on [#260](https://github.com/darlinghq/darling/issues/260) in [darlinghq/darling](https://github.com/darlinghq/darling)
-5. ❗️ Opened issue [#318](https://github.com/Rocketseat/unform/issues/318) in [Rocketseat/unform](https://github.com/Rocketseat/unform)
+1. 🗣 Commented on [#343](https://github.com/browsh-org/browsh/issues/343) in [browsh-org/browsh](https://github.com/browsh-org/browsh)
+2. ❗️ Opened issue [#19](https://github.com/dofy/learn-vim/issues/19) in [dofy/learn-vim](https://github.com/dofy/learn-vim)
+3. 🗣 Commented on [#343](https://github.com/browsh-org/browsh/issues/343) in [browsh-org/browsh](https://github.com/browsh-org/browsh)
+4. ❗️ Opened issue [#345](https://github.com/browsh-org/browsh/issues/345) in [browsh-org/browsh](https://github.com/browsh-org/browsh)
+5. 🗣 Commented on [#260](https://github.com/darlinghq/darling/issues/260) in [darlinghq/darling](https://github.com/darlinghq/darling)
 <!--END_SECTION:activity-->
 </details>
 
