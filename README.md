@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi! My name is Mateus Herique Nascimento Soares and I am Full-Stack Developer.
+## Hi! My name is Mateus Henrique Nascimento Soares and I am Full-Stack Developer.
 
 ### Below you'll find something about me and my projects...
 
